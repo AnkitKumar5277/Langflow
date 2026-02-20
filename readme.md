@@ -1,15 +1,12 @@
 # What
-Langflow is a visual builder for creating AI workflows using LangChain concepts without heavy coding. Think of Langflow as:
-“Postman for AI workflows”  
-or  
-“Flowchart-based backend for AI systems”  
-Langflow  - open source alternative of n8n  
+Langflow is a low-code visual framework to build applications using LLMs (Large Language Models).  
+It is built on top of LangChain.  
+Instead of writing long Python code, you drag and drop components to create AI workflows.  
 
 # Implement
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/7d796944-2290-47e2-b192-6a40dbb8aad5" />
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/df636f24-25a3-454a-b3a6-e64f91a8e0a3" />
-
 
 # Why
 Why Langflow Is Important for QA Engineers  
