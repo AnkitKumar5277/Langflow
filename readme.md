@@ -29,8 +29,8 @@ I - Create a Test Plan for the app.vwo.com
 C - app.vwo.com has a login page with valid and invalid testcases, username, password.   
 E - for valid login you will get into the dashboard, for invalid login you will given a error.  
 P - QA with 20+ years of automation tester, you test enterprise level applications.  
-T - proper Test plan template with objective, resources, scope, risk, approval, mitigation, test strategy.  
-P - professional and to the point  
+O - proper Test plan template with objective, resources, scope, risk, approval, mitigation, test strategy.  
+T - professional and to the point  
 
 # chat input
 Create a test plan for the app.vwo.com
